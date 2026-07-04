@@ -1,25 +1,23 @@
 <div align="center">
-  <img src="assets/logo.png" width="120" alt="FreeSX logo" />
 
-  <h1>FreeSX</h1>
+# FreeSX
 
-  <p><strong>Пишу скрипты и ботов, которые делают рутину за меня.</strong></p>
+### Automation Developer
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-0B5FFF?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Automation-1E88FF?style=flat-square&logo=zapier&logoColor=white" alt="Automation" />
-    <img src="https://img.shields.io/badge/Bots-2E63FF?style=flat-square&logo=telegram&logoColor=white" alt="Bots" />
-    <img src="https://img.shields.io/badge/Status-open%20to%20work-0B5FFF?style=flat-square" alt="Status" />
-  </p>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FreeSX_DEV)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FreeSX-dev)
 
----
+<br/>
 
-### О себе
+### ✦ Tech Stack
 
-Делаю небольшие скрипты, ботов и штуки для автоматизации — обычно потому что самому надоедает делать что-то руками больше одного раза. Не гонюсь за модными фреймворками: если задачу решает 100 строк на stdlib — беру stdlib.
+Скрипты, боты и автоматизация.
 
-Ниже — три реальных проекта, не туториалы и не заготовки:
+<img src="https://skillicons.dev/icons?i=python,bash,js,ts,docker,linux,git,github,sqlite,vscode" />
+
+<br/><br/>
+
+### ✦ Projects
 
 <table>
 <tr>
@@ -27,14 +25,14 @@
 
 **[auto-sorter](https://github.com/FreeSX-dev/auto-sorter)**
 
-Раскладывает файлы в папке по типу или дате. Без зависимостей.
+Раскладывает файлы по типу или дате. Без зависимостей.
 
 </td>
 <td width="33%" valign="top">
 
 **[rate-watch-bot](https://github.com/FreeSX-dev/rate-watch-bot)**
 
-Telegram-бот с алертами по курсу крипты (CoinGecko).
+Telegram-бот с алертами по курсу крипты.
 
 </td>
 <td width="33%" valign="top">
@@ -47,18 +45,16 @@ Telegram-бот с алертами по курсу крипты (CoinGecko).
 </tr>
 </table>
 
----
+<br/>
 
-### Стек
+### ✦ GitHub Metrics
 
-`Python` `requests` `python-telegram-bot` `pytest` немного `bash` там, где без него не обойтись.
+<img src="https://github-readme-stats.vercel.app/api?username=FreeSX-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 
-### Как работаю
+<img src="https://streak-stats.demolab.com?user=FreeSX-dev&theme=dark&hide_border=true" />
 
-Каждый проект — с тестами и коротким README без воды: что делает, как запустить, где ограничения. Не пишу "AI-powered", если там просто `if/else` — это просто скрипт, который работает.
+<br/><br/>
 
----
+<sub>Каждый проект — с тестами и коротким README без воды. Если это просто `if/else`, я не называю это "AI-powered".</sub>
 
-<div align="center">
-  <sub>FreeSX · Python · Automation</sub>
 </div>
